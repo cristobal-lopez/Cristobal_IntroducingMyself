@@ -1,6 +1,6 @@
 # Cristobal_IntroducingMyself
 
-[A very motivated student on his way to becoming an impressive future programmer]
+A very motivated student on his way to becoming an impressive future programmer.
 I am 29 years old and come from El Salvador, Central America. My mother tongue is Spanish and I also speak English and a little bit of Flemish. I moved to Belgium on 2021 and I am really happy to start a programming career here.
 
 Some facts about me:
