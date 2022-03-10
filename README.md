@@ -1,7 +1,5 @@
 # Cristobal_Introducing myself
-
-<img src="https://www.google.com/
-https://thumbs.dreamstime.com/b/vector-illustration-character-happy-boy-greeting-say-hi-hello-cartoon-style-man-holding-hand-up-guy-giving-high-five-deal-185868954.jpg"/>
+![My photo](https://pixy.org/src/174/thumbs350/1742328.jpg)
 
 A very motivated student on his way to becoming an impressive future programmer.
 I am 29 years old and come from El Salvador, Central America. My mother tongue is Spanish and I also speak English and a little bit of Flemish. I moved to Belgium on 2021 and I am really happy to start a programming career here.
